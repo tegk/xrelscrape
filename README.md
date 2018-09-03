@@ -1,2 +1,2 @@
 # xrelscrape
-Async scraper for xrel.to
+Asynchronous scraper for xrel.to to extract release names to identify copyright infringement.
